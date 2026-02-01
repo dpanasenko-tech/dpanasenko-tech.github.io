@@ -1,5 +1,5 @@
 # Денис Панасенко
-![Моё фото](./me.jpg)
+![Моё фото](https://raw.githubusercontent.com/dpanasenko-tech/dpanasenko-tech.github.io/main/me.jpg)
 
 # Помогаю B2B-командам и контент-агентствам масштабировать short-form видео без роста команды и хаоса в продакшне
 
