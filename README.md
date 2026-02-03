@@ -1,8 +1,6 @@
-
-<img align="right" width="200" src="https://raw.githubusercontent.com/dpanasenko-tech/dpanasenko-tech.github.io/refs/heads/main/me-suit.png">
-
+# Обо мне
 # Денис Панасенко
-
+<img align="center" width="200" src="https://raw.githubusercontent.com/dpanasenko-tech/dpanasenko-tech.github.io/refs/heads/main/me-suit.png">
 <br clear="right"/>
 
 # Помогаю B2B-командам и контент-агентствам масштабировать short-form видео без роста команды и хаоса в продакшне
